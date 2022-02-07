@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fish
+  - Hook
+  - Bounds
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Snow
+  - Fish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4123520107
+    locked: 0
+  - name: MountainBG
+    uniqueID: 3813621481
+    locked: 0
+  - name: MountainFG
+    uniqueID: 3215985933
+    locked: 0
+  - name: IceBG
+    uniqueID: 4089113263
+    locked: 0
+  - name: Line
+    uniqueID: 978670457
+    locked: 0
+  - name: Fish
+    uniqueID: 3004874547
+    locked: 0
+  - name: IceFG
+    uniqueID: 763004613
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 4201897213
+    locked: 0
